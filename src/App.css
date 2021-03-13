@@ -1,0 +1,7 @@
+.Centerious {
+  display: flex;
+  justify-content: center;
+}
+* {
+  background-color: rgb(76, 46, 104);
+}
